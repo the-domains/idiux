@@ -1,0 +1,28 @@
+name: IDIUX
+favicon: null
+layout_spectrum: 0.8993700528517365
+typography_spectrum: 0.38126741792075336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9435517943929881
+  lightness: 0.4580413436051458
+  saturation: 0.9974902153480798
+  rhythmicContrast: 0.12177876243367791
+purpose: []
